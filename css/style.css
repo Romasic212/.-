@@ -360,6 +360,14 @@ color: #e62828;
     align-self: flex-end;
 }
 
+.telegram-link {
+    color: #2AABEE; /* Telegram blue */
+    font-size: 3em; /* Make the icon bigger */
+    text-decoration: none; /* Remove underline */
+  }
+  .fa-telegram:hover{
+    color: #000;
+  }
 
 /*Content of subject*/
 #subject-content {
